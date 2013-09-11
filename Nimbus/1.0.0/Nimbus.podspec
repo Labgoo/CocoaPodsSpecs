@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
   s.subspec 'CSS' do |css|
     css.source_files = 'src/css/src'
     css.dependency 'Nimbus/Core'
-    css.dependency 'AFNetworking', '~> 1.0'
+    css.dependency 'AFNetworking'
   end
 
   s.subspec 'AttributedLabel' do |label|
