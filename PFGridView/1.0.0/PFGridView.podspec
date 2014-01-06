@@ -6,6 +6,6 @@ Pod::Spec.new do |s|
   s.authors      = { "PettyFun" => "http://www.pettyfun.com"}
   s.source       = { :git => "https://github.com/pettyfun/pf-gridview"}
   s.platform     = :ios, "6.0"
-  s.source_files = 'PFGridView/PFGridView/*'
+  s.source_files = 'PFGridView/PFGridView/*.h,m'
   s.requires_arc = false
 end
