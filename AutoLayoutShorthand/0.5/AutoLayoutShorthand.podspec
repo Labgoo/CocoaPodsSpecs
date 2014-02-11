@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
            LICENSE
            }
   s.author       = { "Jonathan 'Wolf' Rentzsch" => "" }
-  s.source       = { :git => "git@github.com:zats/AutoLayoutShorthand.git", :tag => '0.5' }
+  s.source       = { :git => "https://github.com/zats/AutoLayoutShorthand", :tag => '0.5' }
 
   s.source_files  = 'Classes', '*.{h,m}'
   s.requires_arc = true
