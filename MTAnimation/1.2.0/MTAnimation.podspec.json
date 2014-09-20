@@ -9,7 +9,7 @@
     "Adam Kirk": "atomkirk@gmail.com"
   },
   "source": {
-    "git": "https://github.com/Labgoo/MTAnimation.git"
+    "git": "https://github.com/Labgoo/MTAnimation.git", "branch": "master"
   },
   "platforms": {
     "ios": "5.0",
