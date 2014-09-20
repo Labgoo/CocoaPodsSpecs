@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/Labgoo/MTAnimation.git",
-    "tag": "1.2.0"
+    "tag": "1.2.0-xcode6"
   },
   "platforms": {
     "ios": "5.0",
