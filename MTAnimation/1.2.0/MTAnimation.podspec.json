@@ -9,8 +9,7 @@
     "Adam Kirk": "atomkirk@gmail.com"
   },
   "source": {
-    "git": "https://github.com/Labgoo/MTAnimation.git",
-    "tag": "1.2.0-xcode6"
+    "git": "https://github.com/Labgoo/MTAnimation.git"
   },
   "platforms": {
     "ios": "5.0",
